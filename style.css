@@ -1,0 +1,21 @@
+h2, h3, h4, h5, h6{
+  background-color: firebrick;
+  color: coral;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+}
+
+p{
+  background-color: lavender;
+  color: seagreen;
+  border: 3px;
+  border-radius: 30%;
+  border-style:double;
+  border-color: darkblue;
+  
+}
+
+body{
+  background-color: peachpuff;
+}
+/* I added a background color. */
